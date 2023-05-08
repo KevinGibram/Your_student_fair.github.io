@@ -2,7 +2,7 @@
  */
 :root {
   --blue: #007bff;
-  --indigo: #6610f2;
+  --indigo: #6710f2de;
   --purple: #6f42c1;
   --pink: #e83e8c;
   --red: #dc3545;
@@ -365,7 +365,7 @@ h1, .h1 {
 }
 
 h2, .h2 {
-  font-size: 2rem;
+  font-size: 3rem;
 }
 
 h3, .h3 {
@@ -6192,7 +6192,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #153462 !important;
+  background-color: #bb8fce ;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
